@@ -1,7 +1,10 @@
 # LIBRARY-MANAGEMENT-SYSTEM
 INTRODUCTION:
        A console-based Library Management System developed in C Programming on Ubuntu. This project helps manage library operations such as adding books, searching books, issuing books, returning books, and maintaining library records efficiently.
-
+       
+OBJECTIVE:
+       The objective of this project is to develop a Library Management System that efficiently manages library records and automates common library operations such as adding, searching, issuing, returning, modifying, and deleting books. The system aims to provide a simple and user-friendly solution for maintaining book inventories and issue records while reducing manual effort through the use of data structures and file handling in C programming.
+       
 FEATURES:
        >>Add new books to the library.
        >>Display all available books.
